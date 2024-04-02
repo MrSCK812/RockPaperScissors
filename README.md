@@ -1,6 +1,6 @@
 # Rock Paper Scissors Web App
 
-This is a simple Rock Paper Scissors web app where the computer plays against itself. The app is built using HTML, CSS, and JavaScript.
+This is a simple Rock Paper Scissors web app where the computer plays against itself. The app is built using HTML, CSS, and JavaScript..
 
 ![Rock Paper Scissors Web App Screenshot](screenshot.png)
 
